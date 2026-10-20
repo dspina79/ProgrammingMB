@@ -2,19 +2,6 @@
 
 Welcome, Scout! This program models a zoo full of animals. It works, sort of, but it has some bugs and some missing features. Your job is to fix and finish it.
 
-## Getting started
-
-1. Open a terminal in this folder.
-2. Set up and run the program:
-
-   ```
-   python -m venv .venv
-   .venv\Scripts\activate
-   pip install -r requirements.txt
-   python main.py
-   ```
-
-3. Look at what gets printed. Does it look right to you?
 
 ## How the code is organized
 
